@@ -13,7 +13,8 @@ For the convenience, the app should provide search functionality to allow user t
 
 The phase 1 of development is completed, whereby separate components are created to add, search and view notes.​
 
-In phase 2 development, persistence should be implemented.​
+In phase 2 development, persistence should be implemented.
+​
 
 By making HTTP calls to json-server, notes should be fetched from and saved in `notes.json` file located in `keep-note-data` folder.​
 
