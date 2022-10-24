@@ -4,7 +4,8 @@
 
 Keep Note is a web app that allows user to maintain notes.  The app should be designed as a single page application.​
 
-Based on SPA approach, the app should be developed by creating components.​
+Based on SPA approach, the app should be developed by creating components.
+​
 
 In the current phase of development, the app should read notes residing externally in the form of an array. The app should update this array, when user adds new notes.​
 
